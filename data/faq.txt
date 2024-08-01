@@ -1,0 +1,601 @@
+﻿VCE Psychology 2023–2027 – 
+Frequently asked questions
+Teachers are advised to consult this document and other Support materials provided on the Psychology 
+study page, when implementing the 2023–2027 VCE Psychology Study Design.
+Teachers should note that the intention of the 2023–2027 VCE Psychology Study Design is to reduce the 
+breadth of key knowledge being covered in order to allow students more opportunity to explore key 
+knowledge and key science skills at a deeper level. This increased focus on depth sits alongside a continued 
+focus on developing and assessing a student’s ability to apply their knowledge to unfamiliar research, 
+contexts, situations and scenarios, where a real-world application of key knowledge and key science skills 
+sits at the core of the revised study design. 
+Frequently asked questions (FAQs) will be updated if required across the course of the Study Design and 
+teachers will be notified of changes via the VCAA Notice to Schools.
+Key science skills: Units 1–4 Psychology
+Do students need to be able to operationalise an independent and 
+dependent variable? 
+No, the requirement to operationalise variables is beyond the scope of this study design. Writing a correctly 
+operationalised variable will still allow students to demonstrate the required key knowledge; however, this is 
+often a higher order cognitive skill. Teachers are encouraged to consolidate students’ understanding of 
+independent and dependent variables at a non-operationalised level. Students should understand, though, 
+the relationship between the specificity of defining variables and concepts of accuracy, precision, 
+repeatability, reproducibility and validity. 
+Do students need to include a population when writing a 
+hypothesis? 
+No. There is no mandated style for writing a hypothesis in VCE Psychology. Students should understand that 
+a hypothesis is a testable prediction that includes appropriate reference to the independent and dependent 
+variable(s), a clear direction for the relationship between variables and a mention of all groups being tested 
+by way of comparison. Where appropriate to the investigation methodology and method, students may 
+include a population, provided it does not contradict the rest of their hypothesis. 
+To what extent do students need to understand each controlled 
+experiment design? 
+Three experimental investigation methodologies are listed in the study design: within-subjects, between-
+subjects and mixed design. Students should understand that in the context of experimental investigations, 
+the use of a mixed design means that the investigation includes features of both a within-subjects and 
+between-subjects design. For each methodology, students should be able to describe the methodology and 
+identify when the methodology may be used. When evaluating research, students should be able to evaluate 
+each methodology for its particular investigation context and make a judgment as to the appropriateness of 
+the methodology selected, for example, whether a selection of a particular methodology has increased the 
+uncertainty and errors in the investigation, and as a result decreased the internal validity of the experiment.
+Do students need to know about a matched-participants controlled 
+experiment design? 
+No. Students do not need to understand or recognise the use of a matched-participants design in a 
+controlled experiment. Terms used in previous study designs, such as independent groups, repeated-
+measures and matched-participants are not synonymous with the new experimental methodologies included 
+in 2023–2027 VCE Psychology Study Design, as their meaning and application are slightly different. 
+What is the difference between formulating a hypothesis and 
+predicting a possible outcome of an investigation? 
+A hypothesis, as a testable prediction, should be written for investigations that involve the manipulation of an 
+independent variable(s) and measurement of dependent variable(s). Predicting an outcome of an 
+investigation is relevant for other investigation methodologies where developing a hypothesis is not 
+appropriate, such as a correlation study, case study or product, process or system development, where 
+variables are not being manipulated. For these investigation methodologies, students should be applying 
+their psychological understanding to predict the likely trend(s) or pattern(s) or unique feature(s) of the results 
+of the investigation. 
+Do students need to know specific examples of common errors in 
+psychological research, such as placebo effect or order effects? 
+No. Concepts such as placebo effect and order effect are beyond the scope of this study design and 
+students will not be expected to classify or name specific errors (such as placebo or order effects). Students 
+should be able to classify the errors present in the investigation method as systematic or random and 
+understand their potential impact on the precision, accuracy, validity, repeatability and reproducibility of 
+results. They should also be able to explain the impact of such errors on the uncertainty of the results and 
+whether or not they can be used to explain the presence of outliers. For example, students will not need to 
+use the phrase ‘non-standardised procedures’ if the experimental and control group in an experiment are 
+completing a memory test at different times of the day, but they should be able to identify this difference as 
+being a random error that will impact the precision of the memory test results collected. They should also be 
+able to identify whether extraneous or confounding variables are present in an experiment and explain their 
+impact on the uncertainty of results and internal validity of the investigation (identifying specific extraneous or 
+confounding variables by type is not required). Teachers are encouraged to introduce students to a range of 
+commonly occurring errors and uncertainties present in psychological research. Further advice for teachers 
+regarding how to cover data and measurement in the new study design can be found under Supplementary 
+materials on the VCE Psychology study page.
+Are students expected to be able to draw graphs and data tables in 
+the end-of-year examination? 
+Yes, all the VCE Psychology Units 1–4 Key science skills included on pages 12 and 13 of the study design 
+are examinable. Students should be able to present data in meaningful ways including drawing tables, bar 
+charts and line graphs. Students are allowed to bring a ruler into the examination. Students should also be 
+able to select the most appropriate (useful and meaningful) way to present the primary or secondary data 
+being used in an investigation. 
+Are students expected to calculate percentages, percentage 
+change, measures of central tendencies or standard deviation in the 
+end-of-year examination? 
+Students may be required to do basic numerical analysis that does not require the use of a calculator in the 
+end-of-year examination. Students should also be able to demonstrate their understanding of what more 
+complex values and calculations, such as measures of central tendency and standard deviation, represent 
+and what insight they offer in relation to particular results or research. Students should be able to suggest an 
+appropriate value/calculation a researcher might conduct to help analyse the data collected. Teachers are 
+encouraged to assess a student’s ability to calculate percentages, percentage change and measures of 
+central tendency through School-assessed Coursework (SAC) tasks and through Unit 4, Outcome 3, by way 
+of applying their understanding of these calculations to their own research (where their investigation involves 
+the generation of quantitative data). Students are not required to be able to calculate standard deviations; 
+however, they should be able to demonstrate an understanding of the standard deviation of data sets. 
+What is meant by ‘robust’? 
+Students should understand the purpose of repeating and reproducing investigations to ensure findings are 
+robust. This means the results remain valid across a variety of conditions. Robust findings are ones that will 
+be produced again when the data is collected from another sample. It can be linked to both repeatability and 
+reproducibility of an investigation. 
+Do students need to name and describe all of the ethical concepts 
+and ethical guidelines included in the ‘Terms used in this study’ 
+section? 
+Yes, as part of the Units 1–4 Key science skills, students need to be able to demonstrate ethical conduct, 
+apply ethical guidelines and evaluate psychological issues, as outlined on pages 20 and 21 of the study 
+design. Students should be able to apply these ethical concepts and guidelines to analyse a range of 
+different scenarios and contexts involving different scientific investigations and/or psychological issues.  
+Do students still need to explain convenience sampling? 
+No. Students should be able to describe the use of random and stratified sampling in an investigation and 
+the effects of sample size on the quality of data obtained. The focus of this skill in the study design is on the 
+use of sampling techniques used to achieve representativeness – hence only random and stratified sampling 
+methods need to be understood. Convenience sampling as a source of error and uncertainty, as well as the 
+impact of convenience sampling on the internal validity, is beyond the scope of this study design. 
+To what depth do students need to understand uncertainty? 
+Students only need to consider the uncertainty of a result of a measurement from a qualitative perspective 
+(and not through statistical analysis). They should also consider potential sources of uncertainty when 
+planning and conducting investigations. Further, students should be able to identify and analyse 
+experimental data qualitatively through applying the concept of certainty in data. Finally, they should be able 
+to evaluate research methods and possible sources of uncertainty and suggest improvements to reduce 
+uncertainty. When evaluating data provided, students should be able to identify contradictory and incomplete 
+data. Students should recognise that uncertainty and errors (random or systematic) are not the same 
+concept. Further advice for teachers regarding how to cover data and measurement in the new study design 
+can be found under Supplementary materials on the VCE Psychology study page.
+Are students still able to use the term ‘reliable’ when analysing 
+data? 
+No, the appropriate terms that now appear in the study design are repeatability and reproducibility. This 
+change in terminology reflects updated language used in scientific literature. Students should understand the 
+difference between these terms, as outlined on Page 19 of the study design, and be able to apply the 
+concepts of repeatability and reproducibility to given research contexts. Further advice for teachers regarding 
+how to cover data and measurement in the new study design can be found under Supplementary materials 
+on the VCE Psychology study page.
+Do students need to know about generalisability?
+In the 2023–2027 VCE Psychology Study Design, students are required to understand the concept of 
+generalisability when considering the appropriateness and application of data to different cultural groups. 
+Students should also consider generalisability when reviewing the external validity of a particular research 
+study and whether the findings can be applied to similar individuals in a different setting. Students should be 
+able to consider the impact (implications) the results may have for a group of people wider than just the 
+original sample. Students should be able to draw and justify a conclusion for a range of investigation 
+methodologies, as well as discuss the implication of the findings and subsequent proposals for specific 
+investigations. As part of this, students should also be able to analyse a methodology and method to explain 
+the limitation of forming a conclusion using the given data. Limitations to forming a conclusion include the 
+presence of errors and uncertainties within the investigation and their impact on validity, as well the use of 
+appropriate sampling. The ‘generalisability of statistics from samples to the populations from which the 
+sample was derived’ from the previous study design, is beyond the scope of this study design. 
+What abbreviations are appropriate for students to use?
+Students can use any scientific abbreviation or abbreviation that is stated within the Study Design or the 
+FAQs. For other commonly used terms within the study, students are encouraged to write the term out in full 
+the first time, abbreviate it in brackets and then refer to the abbreviation for the remainder of that question 
+only. If students are going to refer to the concept again in a different question, they should write it out again 
+in full the first time. Given the use of electronic marking in the end-of-year examination, students can no 
+longer rely on the use of a self-created abbreviation across different exam questions, on different pages. If in 
+doubt, students are recommended to write the entire term and not use an abbreviation. 
+Can students collect information for food diaries and personal food 
+intakes as part of the required practical work?
+No. Recording food diaries and personal food intakes is not appropriate for students as part of VCE 
+Psychology. As outlined on pages 8 and 9 of the study design, teachers and students are not trained nor 
+equipped to assess and/or offer counselling or therapy related to the impact of food on psychological 
+functioning and wellbeing. In addition, research has shown that the inclusion of classroom activities involving 
+food may: contribute to the production of shame and weight stigma, which is problematic in terms of a 
+strengths-based approach to health and wellbeing (see Evans et al., 2008; Rich, Holroyd and Evans, 2004; 
+Rich and Evans, 2005; Leahy, 2009, 2014); support obsessive eating practices and dietary culture that is 
+associated with eating disorders, and normalise these practices (Musolino et al., 2015); contribute to young 
+people internalising obsessive practices that are deemed healthy but at the same time deemed problematic 
+in psychiatry contexts (Musolino et al., 2015).
+Research articles on the association of judgment, shame and obsession with students completing food 
+diaries and personal food intakes are listed below for teacher reference.
+Evans, J., Rich, E., Davies, B. & Allwood, R. (2008). Education, disordered eating and obesity discourse: fat 
+fabrications (1st ed.). Routledge. 
+Evans, J., Rich, E. & Holroyd, R. (2004). Disordered eating and disordered schooling: what schools do to 
+middle class girls. British Journal of Sociology of Education, 25(2), (pp. 123–142). 
+Leahy, D. (2014). Assembling a health[y] subject: risky and shameful pedagogies in health education. Critical 
+Public Health, 24(2), (pp. 171–181). 
+Leahy, D. (2009). Disgusting pedagogies. Biopolitics and the ‘Obesity Epidemic’, (pp. 180–190). Routledge. 
+Musolino, C., Warin, M., Wade, T. & Gilchrist, P., (2015). ‘Healthy anorexia’: The complexity of care in 
+disordered eating. Social Science & Medicine, 139, (pp. 18–25).
+Welch, R. & Leahy, D. (2018). Beyond the pyramid or plate: contemporary approaches to Food and Nutrition 
+education. ACHPER Active and Healthy Magazine, 25(2/3), (pp. 22–31).
+Unit 3
+Do students need to apply the ‘lock-and-key’ model to explain 
+neural transmission? 
+No. Students are not expected to use the ‘lock-and-key’ model to explain neural transmission; however, 
+teachers may choose to use this analogy to support students' understanding of the importance of shape and 
+structure on neural transmission. Students should understand the importance of molecular shape on the 
+ability of a neurochemical (neurotransmitter or neuromodulator) to temporarily bind to a specific receptor site 
+and understand that the shape of the receptor site must be complementary to the shape of the 
+neurochemical. Students should understand that while neuromodulators act on a widespread brain region or 
+brain tissue, like neurotransmitters, they still require a specifically shaped receptor site to temporarily bind to. 
+Are students expected to name the parts of a neuron?
+Yes, students should be able to name and label the components of the neuron involved in the transmission 
+of neural information across a neural synapse, namely the axon terminals (stemming from the axon), 
+synaptic vesicles, dendrites and receptors sites. Students should understand that neurons are the basic 
+structural (cellular) component of the central and peripheral nervous systems and that neural transmission 
+across a synapse requires the release of neurotransmitters from the axon terminal of a pre-synaptic neuron 
+which then binds to the receptors on dendrites of a post-synaptic neuron; the same occurs with 
+neuromodulators on a larger scale. The synaptic and structural changes that occur during synaptic plasticity 
+also require an understanding of the function, and therefore changes to the axon terminals and dendrites. 
+Knowledge of the soma, nucleus and myelin sheath is not required; however, teachers may choose to teach 
+or revise these concepts to support students’ understanding of neural transmission. The mechanisms of 
+action potentials and the role of ion-channels in neural transmission are beyond the scope of the study 
+design. 
+ 
+To what depth do students need to understand the role of 
+neuromodulators on brain activity?
+Students should understand, at a basic level, that neuromodulators increase or decrease the 
+excitability/responsiveness of neurons to neurotransmitter signals across a widespread brain region or brain 
+tissue. They should also understand that a neuromodulator can have a widespread effect on a group of 
+neurons (cellular) or a group of synapses (synaptic) which in turn alters the neurotransmission occurring at 
+those locations. Dopamine and serotonin are the two examples that teachers should use to demonstrate the 
+effects that neuromodulators have on brain activity. Students are not required to understand the specific 
+brain areas that each neuromodulator is produced in or has an effect on; however, they should be able to 
+make links between the effects of dopamine and serotonin with other areas of study; for example, the gut-
+brain axis (given that 90% of serotonin is found in the gut), learning and memory (such as conditioning and 
+the work of neuromodulators on synaptic plasticity) and the sleep-wake cycle. Students should also be able 
+to apply their understanding of neuromodulators to unfamiliar research, situations and contexts. 
+Neuromodulation therapy and the role of dopamine in Parkinson’s disease are beyond the scope of the study 
+design. 
+Do students need to explain LTP and LTD from both a synaptic and 
+structural perspective?
+Yes, students should explore synaptic plasticity through both perspectives. Students should understand that 
+long-term potentiation (LTP) and long-term depression (LTD) can be considered and defined through a 
+synaptic perspective; experience-dependent, long-lasting changes to the strength in neuronal connections 
+where LTP results from repeated high-intensity stimulation and LTD from repeated low-intensity stimulation. 
+Students should also understand how these two processes work together to enable learning and memory 
+formation. The teaching of sprouting, rerouting and pruning should be considered at a structural level, 
+including the roles of axon terminals (excluding filigree appendages) and dendrites. Students should be able 
+to relate sprouting (LTP), rerouting (LTP and LTD) and pruning (LTD) to synaptic plasticity and their role in 
+learning and memory formation. Students should be able to apply their knowledge of synaptic plasticity to a 
+wide range of unfamiliar learning and memory scenarios and contexts. The research work of Hebb is beyond 
+the scope of the study design. 
+Are students expected to explain the role of the sympathetic and 
+parasympathetic nervous system in the fight-or-flight-or-freeze 
+response?
+Yes, students should be able to relate the actions of the autonomic nervous system to the fight-or-flight-or-
+freeze response to acute stress. Students should understand that both the sympathetic and parasympathetic 
+nervous systems are activated when considering the ‘fight-or-flight-or-freeze response’ as an initial unitary 
+response. Students should then understand that the sympathetic nervous system becomes dominant during 
+fight-or-flight, while the parasympathetic nervous system becomes dominant during freeze. In addition to the 
+physiological responses associated with sympathetic and parasympathetic dominance, students should also 
+understand that the freeze response involves a state of immobility, high arousal, alertness and tension. The 
+concept of ‘tonic immobility’ is beyond the scope of the study design and should not be considered 
+synonymous with the ‘freeze’ response.
+To what depth do students need to explain the gut-brain axis and 
+the interaction of gut microbiota with stress and the nervous 
+system?
+Students should understand the gut-brain axis (GBA) consists of the brain, the spinal cord, the autonomic 
+nervous system (sympathetic, parasympathetic and enteric) and the hypothalamic-pituitary-adrenal (HPA) 
+axis. They should explore the gut-brain axis as a bidirectional communication network between the brain and 
+parts of the gastrointestinal tract. Students should understand that the vagus nerve is responsible for 
+connecting cognitive and emotional regions of the brain to the intestinal tract via a collection of sensory and 
+motor neurons. They should recognise that communication between the enteric nervous system and the 
+central nervous system occurs specifically via the vagus nerve and that 90% of the information is travelling in 
+the direction of the brain (afferent). Students should recognise that the enteric nervous system controls the 
+gastrointestinal tract; however, it is not necessary for students to understand specific roles of the enteric 
+nervous system such as its involvement in the immune response, detecting nutrients, and blood circulation. 
+The role of the HPA axis is also beyond the scope of the study design. 
+In terms of the interaction of gut microbiota with stress and the nervous system, students should understand 
+that there is evidence to indicate that communication between the gut microbiota and the brain occurs via the 
+vagus nerve. They should recognise that gut microbiota are a collection of millions of microorganisms that 
+assist in the digestion of food and that gut microbiota (mainly bacteria) are also known to produce and 
+release several neurotransmitters such as GABA, serotonin and dopamine. Knowledge of specific gut 
+microbiota (bacteria) types is not required. Students should appreciate that the last decade has seen a 
+prolific rise in the understanding of a bidirectional relationship between gut microbiota and psychological 
+processes and behaviour, including that chronic stress and cortisol levels can have an impact on healthy gut 
+microbiota. They should also understand that there is evidence to suggest that the type and variety of 
+microbiota in our gut can influence our responsiveness to stress as well as cognitive responses such as 
+memory. 
+Do students need to know specific examples of emerging research 
+into the gut-brain axis? 
+No, students will not be expected to demonstrate knowledge of specific research that has been conducted in 
+relation to the gut-brain axis. Students should, however, be able to apply their understanding of the gut-
+brain-axis and knowledge of the interaction of gut microbiota with the gut-brain axis to unfamiliar research, 
+situations and contexts. Teachers are encouraged across the course of the study design, to seek out 
+emerging research, such as controlled experiments involving germ-free mice, vagotomized mice and the use 
+of probiotics and antibiotics, to demonstrate emerging areas of research in this field of Psychology. Further, 
+the rapidly changing nature of this area means that the current understanding of the gut-brain axis will likely 
+be modified and/or updated over the next decade. This presents teachers with an opportunity to showcase 
+the range of scientific investigation types that researchers undertake and how concepts of validity, 
+reproducibility and repeatability are also considered and applied. 
+What is meant by ‘explanatory power’? 
+‘Explanatory power’ is the ability of a theory/model to explain subject matter effectively. A model or theory 
+can be considered to have more (or less) explanatory power than another to explain a certain situation or 
+outcome. Students should be able to evaluate the explanatory power of Selye’s General Adaptation 
+Syndrome (GAS), Lazarus and Folkman’s Transactional Model of Stress and Coping and Atkinson-Shiffrin’s 
+multi-store model of memory as included in the study design. Teachers may consider the following ideas for 
+a model with high explanatory power:
+•	More observations can be accounted for
+•	Makes fewer assumptions
+•	More falsifiable
+•	More details of cause-and-effect relationships are provided
+A quantitative analysis of explanatory power is beyond the scope of this study design. 
+Are students expected to know about emotion-focused and 
+problem-focused coping within the Transactional Model of Stress 
+and Coping?
+No, emotion-focused and problem-focused coping are beyond the scope of the study design as the two 
+methods of coping occur after primary and secondary appraisal. The concept of reappraisal is also beyond 
+the scope of the study design. Students should understand that secondary appraisal involves an evaluation 
+of coping resources available for a stressful event. Students should be able to classify or suggest coping 
+strategies that are approach or avoidance in nature and consider the context-specific effectiveness for such 
+strategies. 
+To what depth do students need to explain behaviourist and social-
+cognitive approaches to learning? 
+Students should understand that learning can be considered and explored from a range of different 
+approaches to learning and that the 2023–2027 VCE Psychology Study Design considers three approaches 
+to learning, illustrated through the consideration of classical conditioning and operant conditioning, 
+observational learning and Aboriginal and Torres Strait Islander ways of knowing. Students should 
+understand that a behaviourist approach to learning involves an interaction between an individual and stimuli 
+in the environment through conditioning, and that a social-cognitive approach to learning involves an 
+understanding of the role of social context and cognitive processes in learning. Students do not need to 
+demonstrate specific knowledge of the work of researchers such as Pavlov, Watson, Rayner, Skinner, 
+Thorndike or Bandura; however, teachers may choose to use these seminal researchers to teach these 
+approaches to learning. Students should be able to apply their understanding of each approach to learning to 
+explain how learning is occurring in particular situations and also apply their understanding to unfamiliar 
+research, situations and contexts. 
+Are students required to know about stimulus generalisation, 
+stimulus discrimination, extinction and spontaneous recovery in 
+terms of conditioning?
+No, students do not need to demonstrate understanding of these elements of classical and operant 
+conditioning. When considering classical conditioning as an example of a behaviourist approach to learning, 
+they should be able to identify and describe which phases of classical conditioning involve the unconditioned 
+stimulus (UCS), unconditioned response (UCR), neutral stimulus (NS), conditioned stimulus (CS) and 
+conditioned response (CR). Students should also understand additional factors that influence the success of 
+each type of conditioning, such as timing, order, and nature of stimulus, response or consequence. Students 
+should also be able to apply their understanding of the three-phase processes of classical and operant 
+conditioning to unfamiliar research, situations and contexts.
+ 
+Do students need to demonstrate knowledge of specific examples 
+of Aboriginal and Torres Strait Islander ways of knowing? 
+No. Students should understand that Aboriginal and Torres Strait Islander knowledge systems represent the 
+oldest and longest continuing forms of learning in Australia. They should recognise that Aboriginal and 
+Torres Strait Islander peoples’ ways of knowing are unique, complex and sophisticated systems that are 
+different to Western concepts of learning. Students should also recognise that Aboriginal and Torres Strait 
+Islander peoples’ ways of knowing are diverse across language and cultural groups. Teachers may choose 
+which examples of Aboriginal and Torres Strait Islander ways of knowing they use to illustrate the concepts 
+contained within the key knowledge. Further advice for teachers regarding how to deliver Aboriginal and 
+Torres Strait Islander perspectives can be found under Supplementary materials on the VCE Psychology 
+study page.
+Are students required to know about the history of Aboriginal and 
+Torres Strait Islander peoples as context for links to learning, 
+memory and mental wellbeing?
+Throughout the Victorian Curriculum F–10, students engage in a range of learning experiences that consider 
+the history, cultures and perspectives of Aboriginal and Torres Strait Islander peoples. As part of the 
+Victorian Curriculum F–10, students explore the diversity of Aboriginal and Torres Strait Islander peoples and 
+develop their understanding of the meaning of Country and kinship, and of the impact colonisation has had 
+on Aboriginal and Torres Strait Islander peoples. Teachers may choose to revise concepts included within 
+the Victorian Curriculum F–10 to support students’ understanding of key knowledge relating to Aboriginal and 
+Torres Strait Islander knowledge, cultures and history included in the 2023–2027 VCE Psychology Study 
+Design. Further advice for teachers regarding how to deliver Aboriginal and Torres Strait Islander 
+perspectives can be found under Supplementary materials on the VCE Psychology study page.
+Do students need to know the function, capacity and duration of 
+sensory, short-term and long-term memory stores?
+Yes, the function, capacity and duration of the three memory stores should be considered as part of the 
+Atkinson-Shiffrin multi-store model of memory. Students should understand that sensory memory, as 
+described by Atkinson-Shiffrin, is comprised of iconic and echoic memory. Students should also understand 
+the numerical capacity and/or duration of each memory store and should recognise that rehearsal (in a broad 
+sense) can be used to extend the duration of short-term memory (STM) and chunking can be used to expand 
+the capacity of short-term memory. Students should also be able to demonstrate knowledge of the function 
+of each memory store and how the processes of encoding, storage and retrieval relate to each memory 
+store. Students should understand that retrieval, broadly, is the process of recovering information from long-
+term memory (LTM) into short-term memory (STM).
+Do students need to know about specific types of retrieval, such as 
+recall, recognition and relearning? 
+No, specific types of retrieval, and the relative sensitivity of different retrieval types, are beyond the scope of 
+the study design. Students may be presented with unfamiliar investigation scenarios where researchers have 
+used specific methods of retrieval as part of the investigation method; however, sufficient information should 
+be provided to ensure students understand the type of retrieval being studied or used. Similarly, specific 
+knowledge of maintenance and elaborative rehearsal and context- and state-dependent cues is outside the 
+scope of this study design. 
+To what depth do students need to explain the role of brain regions 
+in long-term implicit and explicit memories? 
+Students should understand that the role of the brain in memory and learning is an area of continual 
+research and investigation. While there are known roles and known relationships, memory is a complex and 
+interactive system that is not yet fully understood. When considering the roles and relative involvement of the 
+hippocampus, amygdala, neocortex, basal ganglia and cerebellum in long-term memory, students should 
+understand that these brain regions interact through complex neural networks in order to successfully 
+encode, store and retrieve both implicit and explicit long-term memories. 
+Students should understand that within these complex neural networks, the hippocampus interacts with the 
+amygdala when encoding explicit long-term memories, such as those involving emotional responses, and 
+that the hippocampus also interacts with the neocortex when storing and retrieving long-term memories, 
+such as those associated with semantic and episodic memories. They should also understand that the 
+cerebellum interacts with the basal ganglia and motor programming areas of the neocortex to encode, store 
+and retrieve implicit long-term memories, such as those associated with habit formation, fine motor 
+movements and simple reflexes. Students should also be able to apply their understanding of the role of 
+brain areas involved in memory to unfamiliar research, situations and contexts. Teachers may use selected 
+case studies that investigate the role of these brain regions as a result of brain damage or disease. Teachers 
+may also use selected research studies to provide students with the opportunity to consider how different 
+types of scientific investigations can contribute to our understanding of the selected key knowledge. 
+Teachers may also relate evidence from brain imaging and post-mortem studies of people with Alzheimer’s 
+disease to demonstrate the role of some of these brain regions. Where appropriate, teachers should also link 
+the role of these brain regions to other areas of the study design, such as nervous system functioning and 
+approaches to understanding learning, to support students to develop an understanding of the connections 
+across different areas of study.  
+Students should use the terminology that is included in the study design, that being implicit and explicit 
+memory, i.e. these terms can be considered synonymous with terminology such as non-declarative and 
+declarative memory. It is beyond the scope of study design for students to understand the psychological 
+constructs in which these terms may be applied as having different meanings.
+Do students need to know about the role of implicit memory in 
+retrieving autobiographical events? 
+No. Students are required to understand how explicit memory (episodic and semantic) is involved in the 
+retrieval of autobiographical events. Students should consider how both semantic autobiographical 
+knowledge and episodic autobiographical knowledge contribute to the retrieval of autobiographical events. 
+They should also understand the role of autobiographical events in constructing possible imagined futures. 
+Knowledge of ‘semantic scaffolding theory’, ‘semantic networks’ or ‘schema’ when describing the role of 
+explicit memory is beyond the scope of this study design. 
+What is meant by ‘imagined futures’? 
+Possible imagined futures can also be termed ‘episodic future thinking’. It involves mentally experiencing an 
+event that might occur in your personal future by projecting yourself forward in time and involves semantic 
+autobiographical knowledge and episodic autobiographical knowledge to create the ‘world’ in which the 
+future thinking occurs. Students should be able to provide examples of possible imagined futures, explain 
+how autobiographical events and imagined futures influence each other, and discuss differences and 
+similarities between people with Alzheimer’s disease and aphantasia in being able to undergo episodic future 
+thinking.
+To what depth do students need to understand Alzheimer’s 
+disease?
+Students should understand that brain imaging and post-mortem lesion studies of Alzheimer’s patients are 
+important ways that researchers have been able to learn about the role of episodic and semantic memory in 
+retrieving autobiographical events. Students should also understand the underlying biological features of 
+Alzheimer’s disease and its impact on cognition and that, as a neurodegenerative disorder, Alzheimer’s 
+disease involves widespread neural damage in specific brain areas that impacts on an individual’s episodic 
+and semantic memory. The existence of amyloid plaques (around neurons) and neurofibrillary tangles (within 
+neurons) throughout these brain regions that are accompanied by neuronal death are required parts of this 
+understanding. Students should understand the progression of the disease throughout areas of the brain 
+(hippocampus, neocortex, cerebellum) and that Alzheimer’s patients have a reduced ability to retrieve long-
+term memories of autobiographical events as well as an impeded ability to undergo episodic future thinking 
+(constructing possible imagined futures). Students do not need to understand or use the terms ‘retrograde 
+amnesia’ and ‘anterograde amnesia’ to describe the symptoms of Alzheimer’s disease. 
+Are students required to know about methods of brain imaging? 
+Students should broadly understand brain imaging (and post-mortem lesion studies) as a type of a data 
+collection method that allows researchers to study the impacts of Alzheimer’s disease. Teachers are 
+encouraged to introduce students to a range of brain imaging techniques as a context through which to 
+discuss the role of brain regions and the pathology of Alzheimer’s disease. Research and scenarios may 
+include imaging techniques such as CT, PET, MRI and fMRI scans. Students do not need to describe the 
+function or operation of these imaging technique, nor do they need to identify or recognise which type of 
+brain imaging technique is being used or suggest a specific brain imaging technique for a particular function. 
+Students may be provided with unfamiliar research and scenarios where researchers have used specific 
+brain imaging techniques; however, sufficient information should be provided that allows students to 
+understand what information is being shown in the images provided. 
+To what depth do students need to explain aphantasia? 
+Students should understand that mental imagery is the perception-like experience in our conscious thought 
+in the absence of external sensory stimuli. Students should recognise that there are individual differences in 
+the way people experience mental imagery and that aphantasia is the absence of voluntary visual imagery. 
+Students should understand that research involving people with aphantasia has highlighted the role visual 
+imagery plays in both the retrieval of long-term explicit memories and when undergoing episodic future 
+thinking. Students do not need to consider the biological causes of aphantasia as the condition is not yet 
+widely understood. 
+Do acronyms need to be pronounceable words?
+Yes, students should understand that acronyms compromise the initial letters (and sometimes syllables) of 
+the words in a term and are pronounced as a word. The Australian Government Style Manual provides 
+further information regarding acronyms. Initialisms are beyond the scope of the study design; however, 
+teachers may want to teach what initialisms are to support student understanding of what acronyms are. 
+Are Aboriginal peoples’ use of songlines the only example of sung 
+narrative used by oral cultures that students need to explain? 
+Aboriginal peoples use of songlines is the specific example that teachers should use to illustrate and explore 
+how oral cultures use sung narrative to encode, store and retrieve information. Students should also 
+understand that sung narratives are used across the world by different oral cultures to encode information 
+and teachers may choose their own examples to illustrate this aspect of the key knowledge. Teachers should 
+note that this is the only part of the course that references Aboriginal peoples without Torres Strait Islander 
+peoples and it should also be noted that the word ‘songlines’ is a Western idea that has been used to 
+conceptualise what each Aboriginal language group has different words to describe. It is also important to 
+recognise that colonisation has had a severe impact on Aboriginal cultures and caused disruption to the use 
+of songlines for particular Aboriginal language groups. Students should be able to link their understanding of 
+how the use of songlines can enhance encoding, storage and retrieval of information to the role of 
+appropriate brain regions (hippocampus, neocortex and amygdala). Teachers should note that this key 
+knowledge links strongly to the key knowledge that explores Aboriginal and Torres Islander peoples’ ways of 
+knowing and teachers are encouraged to use examples of songlines to enhance student’s understanding 
+about Aboriginal peoples’ ways of knowing. For further information, teachers should refer to the 
+Supplementary materials available on the Psychology study page. 
+Unit 4
+Are students expected to understand the difference between normal 
+waking consciousness and altered states of consciousness? 
+Yes, an understanding of sleep as a naturally altered state of consciousness is based on students 
+understanding why this is a different concept to normal waking consciousness. Students do not need to 
+compare the two states of consciousness using any specific psychological characteristics and may use a 
+broad set of ideas such as brain wave patterns, levels of awareness, perceptual abilities, and time orientation 
+to illustrate why sleep is considered to be an altered state of consciousness. 
+Are students expected to distinguish between naturally occurring 
+and induced altered states of consciousness?
+No. Induced altered states of consciousness are beyond the scope of the study design. Teachers may select 
+to use examples of sleep studies that use methods to induce sleep, but students do not need to understand 
+these mechanisms or the differences between induced and naturally occurring sleep. 
+Are students expected to use terms such as ‘beta’, ‘theta’, ‘alpha’ 
+and ‘delta’ to describe brain waves on an EEG scan? 
+No. Students should broadly understand the brain wave patterns associated with REM and NREM 1-3 sleep 
+in terms of the patterns and changes (increase and decrease) in amplitude and frequency of brain waves 
+that are present in each stage of sleep. They should also be able to link their understanding of brain wave 
+patterns for each stage of sleep to the ultradian rhythms of REM and NREM Stages 1-3, as well as changes 
+in typical patterns of sleep across the life span.
+Can students still refer to Stage 4 NREM sleep?
+No, the study design has been updated to reflect the change in terminology around NREM sleep stages. 
+What was formerly Stages 3 and 4 are now combined to represent NREM Stage 3, or slow-wave sleep. 
+To what depth do students need to explain the role of the 
+suprachiasmatic nucleus and melatonin in the regulation of sleep-
+wake patterns? 
+Students should understand that the suprachiasmatic nucleus (SCN) is part of the hypothalamus, and in 
+terms of the sleep-wake cycle (a circadian rhythm), the SCN communicates with the nearby pineal gland to 
+release the hormone melatonin. Students should recognise that the suprachiasmatic nucleus can operate 
+independently on an approximately 24-hour cycle but is also influenced by zeitgebers (environmental cues). 
+They should understand that daylight is the main naturally occurring zeitgeber that influences the functioning 
+of the suprachiasmatic nucleus and that daylight allows the SCN to reset every 24 hours. Students should 
+understand that daylight acts by stimulating light sensitive neurons in the eyes (retina) which then sends 
+neural messages to the suprachiasmatic nucleus. When light is detected, the suprachiasmatic nucleus sends 
+inhibitory messages to the pineal gland, whereas when no light is detected, the suprachiasmatic nucleus 
+sends excitatory neural messages to the pineal gland. Students should then understand that when the pineal 
+gland receives excitatory neural messages from the SCN, the pineal gland produces and releases melatonin 
+through the bloodstream and, as a consequence, induces drowsiness/sleepiness and decreases alertness. 
+They should also recognise that there is a negative feedback loop that allows the levels of melatonin in the 
+blood to be monitored by the suprachiasmatic nucleus (specific details of the negative feedback loop 
+including the stimulus, receptor, effector and response are not required) Students should be able to explain 
+the positive and negative impacts of light on the regulation of the sleep-wake cycle and describe typical 
+melatonin levels throughout a 24-hour cycle. Students should also be able to relate the other zeitgebers 
+listed in the study design (temperature and eating and drinking patterns) to the role of the suprachiasmatic 
+nucleus in regulating the sleep-wake cycle. 
+Do students need to know about different theories concerning the 
+purpose of sleep to explain the differences in the demands for sleep 
+across the life span? 
+The study design refers to explanations for the differences in the demands for sleep across the life span. As 
+part of this knowledge, students should be able to describe the purpose of sleep to account for these 
+differences between age groups. Students do not need to name or reference any particular theories of sleep 
+such as ‘restorative’ or ‘evolutionary’; however, students should be able to identify the general benefits of 
+certain sleep stages (REM and NREM) on survival, physical recovery and mental recovery in order to explain 
+why there is a difference in the sleep demand or sleep pattern across the life span. 
+To what depth do students need to explain the role of blue light on 
+sleep-wake patterns?
+Students should understand that blue light is a zeitgeber that can influence the regulation of the sleep-wake 
+cycle and that blue light is produced from man-made artificial sources of light that have become a staple in 
+modern society through digital technology. They should recognise that similar to daylight, blue light has an 
+effect through its interaction with the light-sensitive neurons in the eye, suprachiasmatic nucleus and the 
+release of melatonin from the pineal gland. Students should be able to identify when blue light is impacting 
+sleep quality and quantity and how it may be used to improve sleep hygiene, sleep timing and mental 
+wellbeing. 
+ 
+Can the term ‘mental wellbeing’ be considered synonymous with 
+the term ‘mental health’?
+No. The 2023–2027 VCE Psychology Study Design focuses on defining ‘mental wellbeing’ rather than 
+‘mental health’ (as in the previous study design) to recognise that there are different (epistemological) ways 
+of considering health and wellbeing across cultures. The change in terminology is designed to include both 
+Western ways of considering mental health (and wellbeing) as well as Aboriginal and Torres Strait Islander 
+multidimensional and holistic ways of considering wellbeing. 
+To what depth do students need to explain social and emotional 
+wellbeing (SEWB) for Aboriginal and Torres Strait Islander 
+peoples?
+Students should recognise that Aboriginal and Torres Strait Islander peoples have held a holistic view of 
+health and wellbeing for tens of thousands of years and should understand that SEWB as a framework is 
+unique to Aboriginal and Torres Strait Islander peoples. They should understand that definitions of SEWB will 
+vary across Aboriginal and Torres Strait Islander language groups, and that SEWB will also change through 
+a life span. Students should recognise that SEWB places the individual (self) within a network of 
+relationships called ‘domains’ (or elements of being) and the quality of an individual’s connections 
+(experiences and expressions) to these domains is what influences their social and emotional wellbeing. It is 
+important to understand in the framework, self is inseparable from each domain and to understand each 
+domain also requires an understanding of their interconnectedness. Students should understand that while 
+the domain of ‘mind and emotions’ is most closely related to a Western understanding of mental wellbeing, 
+this domain as part of the SEWB framework extends beyond conventional Western understandings of mental 
+health and mental wellbeing. When considering the four determinants of health (political, social, historical 
+and cultural), focus should be placed on cultural determinants of health, as these have found to be amongst 
+the strongest protective factors for Aboriginal and Torres Strait Islander peoples social and emotional 
+wellbeing, and are considered in greater detail when exploring the maintenance of mental wellbeing. 
+Knowledge of the nine guiding principles for the SEWB framework from the Ways Forward report are beyond 
+the scope of this study design; however, teachers may wish to discuss these guiding principles with students 
+to support their understanding of SEWB. Further advice and guidance for teachers in delivering SEWB can 
+be found under Supplementary materials on the VCE Psychology study page.
+Are students expected to identify specific protective and risk factors 
+associated with Aboriginal and Torres Strait Islander peoples social 
+and emotional wellbeing? 
+No. Being able to describe the broader ecological context of the SEWB model, such as determinants of 
+health and the domains impacting the social and emotional wellbeing of Aboriginal and Torres Strait Islander 
+peoples is an integral part of this key knowledge; however, students do not need to be able to identify 
+specific positive/protective or challenge/risk factors for individuals or communities as part of this 
+understanding. Teachers may choose to discuss particular factors with their students to support their 
+understanding of SEWB however if teachers choose to do so, this must be done in a culturally safe and 
+responsive way. Further advice and guidance for teachers in delivering SEWB can be found under 
+Supplementary materials on the VCE Psychology study page.
+ 
+Are students expected to apply their knowledge of cognitive 
+behavioural therapy (CBT) to other contexts? 
+No, students are not required to apply CBT to contexts other than its use as a psychological intervention for 
+specific phobia. Students are no longer required to apply CBT to the treatment of sleep disorders. Cognitive 
+behavioural strategies, however, as a psychological protective factor to maintain mental wellbeing could be 
+applied to different contexts and scenarios relating to mental health. 
+To what depth do students need to understand mindfulness 
+meditation?
+The American Psychological Association defines mindfulness meditation as a type of meditation in which a 
+person focuses attention on (their) breathing and thoughts, feelings and sensations are experienced freely 
+as they arise. Students should be able to explain how mindfulness meditation can act as a psychological 
+protective factor for mental wellbeing and should demonstrate understanding of the attention and acceptance 
+components of this technique. Students should focus their learning on the psychological benefits of this 
+meditation rather than the biological mechanisms of the brain. Knowledge of structured mindfulness 
+meditation approaches such as body scan, sitting and walking are not required knowledge; however, 
+teachers may choose to introduce these examples as part of class activities and practical work. 
+What is meant by ‘support from family, friends and community that 
+is authentic and energising’? 
+This key knowledge focuses on the positive attributes that should accompany social support – support that is 
+authentic (genuine, down-to-earth, real) and energising (provides vitality, enthusiasm). The community 
+aspect of this key knowledge can come from community groups that a person engages with, such as a 
+sports club, music group or local community group, or more formal support that comes from the community 
+settings, such as Headspace and Beyond Blue and other support organisations. Students should understand 
+the reasons why this type of support can act as a social protective factor that can maintain mental wellbeing. 
+
+VCE Psychology 2023–2027 – Frequently asked questions	
+© VCAA
+
+Page 1
+
+
+© VCAA
+
+
+
